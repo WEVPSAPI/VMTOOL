@@ -1,2 +1,14 @@
-BackupCenter:{ v:1.1.1.1, url=""}
-someting: { v:1.1.1.1, url=""}
+{
+  "BackupCenter": {
+    "v": "1.1.0.0",
+    "url": "https://example.com/BackupCenter.zip",
+    "description": "Backup and restore server data",
+    "open_url": "/extensions/BackupCenter"
+  },
+  "FileManager": {
+    "v": "1.0.2",
+    "url": "https://example.com/FileManager.zip",
+    "description": "Manage server files",
+    "open_url": "/extensions/FileManager"
+  }
+}

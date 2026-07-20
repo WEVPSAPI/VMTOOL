@@ -16,5 +16,5 @@
     "url": "https://example.com/FileManager.zip",
     "description": "something",
     "open_url": "/extensions/FileManager"
-  },
+  }
 }

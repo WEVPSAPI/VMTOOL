@@ -11,6 +11,15 @@
       "date": "2026-07-20T20:30:00Z",
       "pinned": false,
       "enabled": true
+    },
+    {
+      "id": "welcome-to-wevps-notifications2",
+      "title": "Welcome to WeVPS Notifications",
+      "message": "Official product updates, maintenance notices and important service announcements will appear here.",
+      "type": "info",
+      "date": "2026-07-20T20:30:00Z",
+      "pinned": false,
+      "enabled": true
     }
   ]
 }

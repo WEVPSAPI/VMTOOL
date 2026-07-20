@@ -1,1 +1,16 @@
 
+{
+  "version": 1,
+  "updated_at": "2026-07-20T20:30:00Z",
+  "notifications": [
+    {
+      "id": "welcome-to-wevps-notifications",
+      "title": "Welcome to WeVPS Notifications",
+      "message": "Official product updates, maintenance notices and important service announcements will appear here.",
+      "type": "info",
+      "date": "2026-07-20T20:30:00Z",
+      "pinned": true,
+      "enabled": true
+    }
+  ]
+}

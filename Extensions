@@ -1,11 +1,11 @@
 {
-  "WeVPS Control": {
+  "WeVPSControl": {
     "v": "1.0.0.0",
     "url": "https://example.com/WeVPS.zip",
     "description": "Single server centera",
     "open_url": "/extensions/WeVPS"
   },
-  "Backup Center": {
+  "BackupCenter": {
     "v": "1.0.0.0",
     "url": "https://example.com/BackupCenter.zip",
     "description": "Backup and restore server data",

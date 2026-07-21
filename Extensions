@@ -13,7 +13,7 @@
   },
   "WeVPSTerminal": {
     "v": "1.0.2",
-    "url": "https://example.com/Terminal.zip",
+    "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/Terminal.zip",
     "description": "Manage server Terminal",
     "open_url": "/extensions/Terminal"
   }

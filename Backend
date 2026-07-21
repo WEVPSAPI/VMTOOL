@@ -1,4 +1,4 @@
 {
   "version": 1,
-  "url": "http://api.wevps.space:2086/vmtool/backend"
+  "url": "https://api.wevps.space/backend.php"
 }

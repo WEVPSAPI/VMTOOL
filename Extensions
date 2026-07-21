@@ -15,6 +15,6 @@
     "v": "1.0.0",
     "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/Terminal.zip",
     "description": "Manage server Terminal",
-    "open_url": "/WeVPSTerminal"
+    "open_url": "/wevpsterminal/"
   }
 }

@@ -11,10 +11,10 @@
     "description": "Backup and restore server data",
     "open_url": "/extensions/BackupCenter"
   },
-  "WeVPSTerminal2": {
+  "WeVPSTerminall": {
     "v": "1.0.0",
     "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/Terminal.zip",
     "description": "Manage server Terminal",
-    "open_url": "/wevpster2al/"
+    "open_url": "/wevpsterminall/"
   }
 }

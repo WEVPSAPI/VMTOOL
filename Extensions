@@ -3,7 +3,7 @@
     "v": "1.0.0.0",
     "url": "https://example.com/WeVPS.zip",
     "description": "Single server center",
-    "open_url": "/"
+    "open_url": "/index"
   },
   "BackupCenter": {
     "v": "1.0.0.0",

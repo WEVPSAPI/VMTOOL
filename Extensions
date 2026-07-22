@@ -1,7 +1,7 @@
 {
   "WeVPSControl": {
     "v": "1.0.0.0",
-    "url": "https://example.com/WeVPS.zip",
+    "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/WeVPSControl.zip",
     "description": "Single server center",
     "open_url": "/index"
   },

@@ -8,7 +8,7 @@
 "FileManager": {
   "v": "1.0.0.0",
   "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/FileManager.zip",
-  "description": "Secure local server file manager with upload, download, editing, search, permissions, archives and mobile support",
+  "description": "Secure local server file manager,
   "open_url": "/filemanager/"
 },
   "WeVPSTerminal": {

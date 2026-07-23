@@ -16,5 +16,11 @@
     "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/Terminal.zip",
     "description": "Manage server terminal",
     "open_url": "/wevpsterminal/"
+  },
+  "WEVPSNetwork": {
+    "v": "1.0.0",
+    "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/WEVPSNetwork.zip",
+    "description": "Professional network management, diagnostics and IP reputation toolbox",
+    "open_url": "/wevpsnetwork/"
   }
 }

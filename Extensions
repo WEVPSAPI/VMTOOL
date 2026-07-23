@@ -5,16 +5,16 @@
     "description": "Single server center",
     "open_url": "/index"
   },
-"FileManager": {
-  "v": "1.0.0.0",
-  "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/FileManager.zip",
-  "description": "Secure local server file manager,
-  "open_url": "/filemanager/"
-},
+  "FileManager": {
+    "v": "1.0.0.0",
+    "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/FileManager.zip",
+    "description": "Secure local server file manager",
+    "open_url": "/filemanager/"
+  },
   "WeVPSTerminal": {
     "v": "1.0.0",
     "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/Terminal.zip",
-    "description": "Manage server Terminal",
+    "description": "Manage server terminal",
     "open_url": "/wevpsterminal/"
   }
 }

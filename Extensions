@@ -5,12 +5,12 @@
     "description": "Single server center",
     "open_url": "/index"
   },
-  "BackupCenter": {
-    "v": "1.0.0.0",
-    "url": "https://example.com/BackupCenter.zip",
-    "description": "Backup and restore server data",
-    "open_url": "backupcenter"
-  },
+"FileManager": {
+  "v": "1.0.0.0",
+  "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/FileManager.zip",
+  "description": "Secure local server file manager with upload, download, editing, search, permissions, archives and mobile support",
+  "open_url": "/filemanager/"
+},
   "WeVPSTerminal": {
     "v": "1.0.0",
     "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/Terminal.zip",

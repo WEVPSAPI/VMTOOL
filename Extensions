@@ -22,5 +22,11 @@
     "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/WEVPSNetwork.zip",
     "description": "Professional network management, diagnostics and IP reputation toolbox",
     "open_url": "/wevpsnetwork/"
+  },
+  "BackupCenter": {
+    "v": "1.0.0",
+    "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/BackupCenter.zip",
+    "description": "Professional server backup, recovery and secure delivery management center",
+    "open_url": "/backupcenter/"
   }
 }

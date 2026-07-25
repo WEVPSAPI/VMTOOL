@@ -28,5 +28,11 @@
     "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/BackupCenter.zip",
     "description": "Professional server backup, recovery and secure delivery management center",
     "open_url": "/backupcenter/"
+  },
+  "WEVPSInstaller": {
+    "v": "1.0.0",
+    "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/WEVPSInstaller.zip",
+    "description": "Automated operating system deployment and server installation management center",
+    "open_url": "/wevpsinstaller/"
   }
 }

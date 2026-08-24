@@ -34,5 +34,11 @@
     "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/WEVPSInstaller.zip",
     "description": "Automated operating system deployment and server installation management center",
     "open_url": "/wevpsinstaller/"
+  },
+  "WEVPSOpsDeck": {
+    "v": "1.0.0",
+    "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/WEVPSOpsDeck.zip",
+    "description": "One panel for containers, git, automation and terminal sessions.",
+    "open_url": "/wevpsopsdeck/"
   }
 }

@@ -46,5 +46,11 @@
   "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/ResourceSentinel.zip",
   "description": "Live server resource monitoring with configurable CPU, RAM, disk space and I/O, network, load and temperature threshold alerts delivered via Telegram and email.",
   "open_url": "/resourcesentinel/"
+},
+"ResourceSentinel": {
+  "v": "1.0.0",
+  "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/WEVPSApiCore.zip",
+  "description": "REST API gateway for the whole server: system metrics & disks & packages, processes (signals/open files), systemd (reload/mask/failed), terminal, files (checksum/symlink), GNU screen sessions, docker (inspect/pause/pull/prune), network, ufw + fail2ban, git, user management and cron — secured by scoped, rate-limited, expiring API keys with a live dashboard panel and interactive documentation.",
+  "open_url": "/wevpsapicore/"
 }
 }

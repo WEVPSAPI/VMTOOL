@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated_at": "2026-07-20T20:30:00Z",
+  "updated_at": "2026-08-27T00:30:00Z",
   "notifications": [
     {
-      "id": "welcome-to-wevps-notifications",
-      "title": "Welcome to WeVPS Notifications",
-      "message": "Official product updates, maintenance notices and important service announcements will appear here.",
-      "type": "info",
-      "date": "2026-07-20T20:30:00Z",
+      "id": "new-vmtool-tools",
+      "title": "New Tools Added",
+      "message": "WEVPSOpsDeck, ResourceSentinel and WEVPSApiCore have been added to VMTool.",
+      "type": "update",
+      "date": "2026-08-27T00:30:00Z",
       "pinned": true,
       "enabled": true
     }

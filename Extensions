@@ -6,13 +6,13 @@
     "open_url": "/index"
   },
   "FileManager": {
-    "v": "1.0.0",
+    "v": "1.0.2",
     "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/FileManager.zip",
     "description": "Secure local server file manager.",
     "open_url": "/filemanager/"
   },
   "WeVPSTerminal": {
-    "v": "1.0.0",
+    "v": "1.0.3",
     "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/Terminal.zip",
     "description": "Manage server terminal.",
     "open_url": "/wevpsterminal/"

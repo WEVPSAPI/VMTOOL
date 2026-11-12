@@ -1,6 +1,6 @@
 {
   "WeVPSControl": {
-    "v": "1.0.0.3",
+    "v": "1.0.0.4",
     "url": "https://github.com/WEVPSAPI/VMTOOL/raw/refs/heads/main/Tools/WeVPSControl.zip",
     "description": "Single server center.",
     "open_url": "/index"
